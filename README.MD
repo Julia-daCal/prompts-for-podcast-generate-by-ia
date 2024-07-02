@@ -17,6 +17,7 @@ O áudio se encontra na pasta output.
 - Audio gerado pela elevenLabs
 - Designer Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+- No Notion foi registrado tudo: https://generated-crowd-62d.notion.site/PAS-Podcast-AI-Studio-6df1b03e9b1a494aa980e4f8eb0a9fee
 
 ## 📚 Materiais
 
