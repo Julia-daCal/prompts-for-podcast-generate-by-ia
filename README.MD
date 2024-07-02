@@ -2,6 +2,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 Projeto realizado em aula do Bootcamp DIO com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
+O áudio se encontra na pasta output.
 
 ## 💻 Tecnologias utilizadas no projeto
 
